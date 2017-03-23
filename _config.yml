@@ -3,10 +3,11 @@ title: "欢乐幼儿园"
 url: "//greetk.com"
 paginate: 5
 author:
-    name: k.
+    name: 龙之弟
     email: keenking@vip.qq.com
 atom_path: /atom.xml
 rss_path: /rss.xml
+description : 握了个小草
 
 # Build settings
 kramdown:
